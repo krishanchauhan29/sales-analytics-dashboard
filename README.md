@@ -3,7 +3,7 @@
 An interactive business intelligence dashboard built on the **Superstore Sales Dataset** to analyze revenue trends, regional performance, customer segments, and profitability drivers.
 
 ## 🔴 Live Demo
-👉 [Click here to view the live dashboard]([STREAMLIT_LINK_YAHAN_PASTE_KARO])
+👉 [Click here to view the live dashboard](https://sales-analytics-dashboard292003.streamlit.app/)
 
 ## 📌 Key Business Insights
 - **West region** leads in profit ($108K), while **Central region** is loss-making (-10.4% margin)
